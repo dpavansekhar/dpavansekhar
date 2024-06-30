@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at Manav Rachna University, Faridabad.
+- 🎓 Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at Manav Rachna University, Faridabad (Expected Graduation: 2026).
 - 📚 CGPA: 9.38 (Maintained 75% above in previous 3 semesters).
 - 📧 Email: doggapavansekhar@gmail.com
 - 📱 Phone: +91 79891 78201
