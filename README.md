@@ -19,6 +19,11 @@
 
 - **Bachelor of Technology (2022 - 2026)**
   - Manav Rachna University, Faridabad
+ 
+## Internship Experience
+
+- **Summer Internship, Coding Raja Technologies (May 2024 - July 2024)**
+  - Worked remotely as part of the internship program at Coding Raja Technologies, Hyderabad, India.
 
 ## Projects
 
