@@ -6,6 +6,10 @@
 
 - 🎓 Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning at Manav Rachna University, Faridabad (Expected Graduation: 2026).
 - 📚 CGPA: 9.29 (Maintained 75% above in previous 4 semesters).
+  - **Semester 1 : ** 9.52
+  - **Semester 2 : ** 9.56
+  - **Semester 3 : ** 9.05
+  - **Semester 4 : ** 9.04 
 - 📧 Email: doggapavansekhar@gmail.com
 - 📱 Phone: +91 79891 78201
 - 📍 Location: Faridabad, 121003
@@ -19,6 +23,12 @@
 
 - **Bachelor of Technology (2022 - 2026)**
   - Manav Rachna University, Faridabad
+
+- **Board of Intermediate Education Andhra Pradesh (2020 - 2022)**
+  - Sri Chaitanya Junior College, Vijayawada
+
+- **Board of Secondary Education Andhra Pradesh (2019 - 2020)**
+  - Viswabharathi English Medium High School, Gudivada
  
 ## Internship Experience
 
