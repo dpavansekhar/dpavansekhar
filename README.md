@@ -11,7 +11,7 @@
   - **Semester 3 :** 9.05
   - **Semester 4 :** 9.04 
 - 📧 Email: doggapavansekhar@gmail.com
-- 📱 Phone: +91 79891 78201
+- 📱 Phone: +91 ***** *****
 - 📍 Location: Faridabad, 121003
 
 ## Skills
@@ -61,7 +61,7 @@ Developed a machine learning model to predict COVID-19 infection status based on
 ## Contact Me
 
 - 📧 Email: doggapavansekhar@gmail.com
-- 📱 Phone: +91 79891 78201
+- 📱 Phone: +91 ***** *****
 
 Let's connect and collaborate on exciting projects!
 
