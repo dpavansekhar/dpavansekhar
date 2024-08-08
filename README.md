@@ -8,11 +8,11 @@
 - 📚 CGPA: 9.29 (Maintained 75% above in previous 4 semesters).
 - 📧 Email: doggapavansekhar@gmail.com
 - 📱 Phone: +91 79891 78201
-- 📍 Location: Anakapalle, 531001
+- 📍 Location: Faridabad, 121003
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C++, HTML, CSS, MySQL
+- **Programming Languages:** Python, Java, C++, HTML, CSS, MySQL, C
 - **Soft Skills:** Good communication skills, Leadership, Time Management, Problem Solving
 
 ## Education
@@ -22,8 +22,8 @@
  
 ## Internship Experience
 
-- **Summer Internship, Coding Raja Technologies (May 2024 - July 2024)**
-  - Worked remotely as part of the internship program at Coding Raja Technologies, Hyderabad, India.
+- **Summer Internship, Centre of Health Innovations, Manav Rachna Institute of Research and Studies**
+  - Worked on developing the ML models for the cough classification project.
 
 ## Projects
 
