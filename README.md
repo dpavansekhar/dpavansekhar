@@ -36,6 +36,12 @@ Built a machine learning model in Python to predict the likelihood of a patient 
 ### Sentiment Analysis on Social Media Data
 Created a machine learning model in Python to analyze sentiments from social media comments/tweets.
 
+### Thyroid Disease Prediction
+The Thyroid Disease Prediction project utilizes machine learning algorithms to accurately predict thyroid conditions based on patient data, aiding in early diagnosis and effective disease management.
+
+### Covid-19 Prediction 
+Developed a machine learning model to predict COVID-19 infection status based on audio signals, enabling early and accurate diagnosis from cough and breath sounds.
+
 ## Extracurricular Activities
 
 - **Editor at Newsletter Committee (Jan 2024 – Present)**
