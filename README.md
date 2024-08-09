@@ -1,6 +1,6 @@
 # Dogga Pavan Sekhar
 
-👋 Hi there! I'm Dogga Pavan Sekhar, an aspiring Machine Learning Intern with a passion for leveraging technology to solve real-world challenges. Welcome to my GitHub profile!
+👋 Hi there! I'm Dogga Pavan Sekhar, an aspiring Machine Learning enthusiast with a passion for leveraging technology to solve real-world challenges. Welcome to my GitHub profile!
 
 ## About Me
 
