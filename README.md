@@ -52,6 +52,9 @@ The Thyroid Disease Prediction project utilizes machine learning algorithms to a
 ### Covid-19 Prediction 
 Developed a machine learning model to predict COVID-19 infection status based on audio signals, enabling early and accurate diagnosis from cough and breath sounds.
 
+### Mushroom Edibility Prediction
+A machine learning project that predicts mushroom edibility using features like cap shape and color, employing a RandomForestClassifier to classify mushrooms as edible or poisonous.
+
 ## Extracurricular Activities
 
 - **Editor at Newsletter Committee (Jan 2024 – Present)**
