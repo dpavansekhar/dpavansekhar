@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile! I'm Dogga Pavan Sekhar 👨‍💻
 
-![Profile Banner](https://your-image-link-here.com)
+![Profile Banner](https://avatars.githubusercontent.com/u/173888818?v=4)
 
 🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
 📍 **Faridabad, Haryana, India**  
