@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dogga Pavan Sekhar</h1>
-<h3 align="center">I am a **passionate AI & ML enthusiast** with a knack for solving real-world problems using **cutting-edge technology**. Currently pursuing my **B.Tech at Manav Rachna University**, I specialize in **AI-driven healthcare solutions, automation, and full-stack development**</h3>
+<h3 align="center">I am a passionate AI & ML enthusiast with a knack for solving real-world problems using cutting-edge technology. Currently pursuing my B.Tech at Manav Rachna University, I specialize in AI-driven healthcare solutions, automation, and full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpavansekhar&label=Profile%20views&color=0e75b6&style=flat" alt="dpavansekhar" /> </p>
 
