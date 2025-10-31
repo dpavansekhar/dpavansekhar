@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **doggapavansekhar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wo5kArCVGCgiw88bhNouX5ckgaqgDRhd/view?usp=sharing](https://drive.google.com/file/d/1wo5kArCVGCgiw88bhNouX5ckgaqgDRhd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZSoYb5jLf6kjnarieLDcWOpRqHJVRT6i/view?usp=sharing](https://drive.google.com/file/d/1ZSoYb5jLf6kjnarieLDcWOpRqHJVRT6i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
