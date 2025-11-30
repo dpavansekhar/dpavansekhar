@@ -16,8 +16,8 @@ I love building intelligent systems that solve real-world problems, especially i
 - 🌱 Researching in **Medical Imaging, NLP-driven Assistants & AI Automation**
 - 👨‍💻 Portfolio: **https://portfolio-dogga-pavan-sekhar.vercel.app**
 - 📫 Reach me at **doggapavansekhar@gmail.com**
-- 📄 My Resume:  
-  https://drive.google.com/file/d/1ZSoYb5jLf6kjnarieLDcWOpRqHJVRT6i/view?usp=sharing
+- 📄 My Resume:
+  https://drive.google.com/file/d/10VfZ2_Iik-2IOXcbE8sv1Kq2pUoj836p/view?usp=sharing
 
 ---
 
